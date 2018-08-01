@@ -2,7 +2,7 @@
   "name": "linkyourleisure/laravel-geo",
   "description": "Spatial OGC objects integration for Laravel 5.*",
   "license": "GPL-3.0-only",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "keywords": ["geospatial", "laravel", "spatial", "geo"],
   "authors": [
     {
